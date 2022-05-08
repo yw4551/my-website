@@ -116,7 +116,7 @@ border-bottom: 1px solid #EBEBEB;
  ===============================*/
 
 #home-sec {
-    background: url(../img/header.jpg) no-repeat center center;
+    background: url(header.jpg) no-repeat center center;
 padding: 0;
 -webkit-background-size: cover;
 background-size: cover;
@@ -175,7 +175,7 @@ color: #fff;
    JUST SECTION STYLES
  ===============================*/
 #just-sec {
-     background: url(../img/just.png) no-repeat center center;
+     background: url(just.png) no-repeat center center;
 padding: 0;
 -webkit-background-size: cover;
 background-size: cover;
@@ -196,7 +196,7 @@ color: #fff;
    CONTACT STYLES
  ===============================*/
     #contact-sec {
-    background: url(../img/contact.jpg) no-repeat center center;
+    background: url(contact.jpg) no-repeat center center;
 padding: 0;
 -webkit-background-size: cover;
 background-size: cover;
